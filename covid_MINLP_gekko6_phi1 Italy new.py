@@ -82,6 +82,7 @@ m.Equation(0 <= R[j])
 m.Equation(R[j] <= 10)
 m.Equation(0 <= D[j])
 m.Equation(D[j] <= Dmax)
+m.Equation(R[60] >= 6)
 
 
 
