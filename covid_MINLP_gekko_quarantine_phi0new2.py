@@ -7,7 +7,7 @@ import numpy as np
 
 N=8.9
 
-sigma=0.001
+sigma=0
 
 gamma2=0.05
 
